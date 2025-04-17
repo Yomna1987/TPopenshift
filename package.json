@@ -1,0 +1,24 @@
+{
+  "name": "yomna_express",
+  "version": "1.0.0",
+  "description": "Application Express de test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "tp"
+  ],
+  "author": "yomna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
